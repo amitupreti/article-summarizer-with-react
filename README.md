@@ -1,4 +1,4 @@
-# article-summarizer-with-react
+# image-generator-with-react
 
 Thanks to @adrianhajdin for the tutorial.
 https://github.com/adrianhajdin/project_ai_summarizer
@@ -12,3 +12,4 @@ https://github.com/adrianhajdin/project_ai_summarizer
 #### Vite
 
 #### TailwindCSS
+#### ARImageSynthesizer by ArdicAITeam
