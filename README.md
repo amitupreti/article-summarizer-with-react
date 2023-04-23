@@ -16,3 +16,5 @@ https://github.com/adrianhajdin/project_ai_summarizer
 #### ARImageSynthesizer by ArdicAITeam
 
 Resume from https://youtu.be/vpvtZZi5ZWk?t=1987
+
+Live demo: https://image-generator-with-react-and-ardic-image-synthesizer.vercel.app/
