@@ -5,13 +5,20 @@ import { useState, useEff } from "react";
 import { copy, linkIcon, loader, tick } from "../assets";
 
 const Demo = () => {
+  const [prompt, setPrompt] = useState({
+    text: "",
+    image_url: "",
+  });
+  const handleSubmit = async (e) => {
+    alert("Form Submitted");
+  };
   return (
     <section className="mt-16 w-full max-w-xl">
       {/* Get Prompt */}
       <div className="flex flex-col w-full gap-2">
         <form
           className="relative flex justify-center items-center"
-          onSubmit={() => {}}
+          onSubmit={handleSubmit}
         >
           <img
             src={linkIcon}
@@ -21,8 +28,10 @@ const Demo = () => {
           <input
             type="text"
             placeholder="Create a cat eating a watermelon"
-            value=""
-            onChange={() => {}}
+            value={prompt.text}
+            onChange={(e) => {
+              setPrompt({ ...prompt, text: e.target.value });
+            }}
             required
             className="url_input peer"
           />

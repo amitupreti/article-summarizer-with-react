@@ -22,7 +22,7 @@ const Hero = () => {
       </nav>
       <h1 className="head_text">
         Image Generator with
-        <span className="orange_gradient">
+        <span className="pink_gradient">
           {" "}
           <br className="max-md:hidden" />
           ArdicAI
