@@ -12,4 +12,7 @@ https://github.com/adrianhajdin/project_ai_summarizer
 #### Vite
 
 #### TailwindCSS
+
 #### ARImageSynthesizer by ArdicAITeam
+
+Resume from https://youtu.be/vpvtZZi5ZWk?t=1987
