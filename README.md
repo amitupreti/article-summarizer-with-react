@@ -17,4 +17,4 @@ https://github.com/adrianhajdin/project_ai_summarizer
 
 Resume from https://youtu.be/vpvtZZi5ZWk?t=1987
 
-Live demo: [https://image-generator-with-react-and-ardic-image-synthesizer.vercel.app/](https://image-generator--react.vercel.app/)
+Live demo: https://image-generator--react.vercel.app/ 
